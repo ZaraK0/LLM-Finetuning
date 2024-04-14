@@ -34,10 +34,4 @@ Welcome to the PEFT (Pretraining-Evaluation Fine-Tuning) project repository! Thi
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to open an issue or submit a pull request.
 
-## License 📝
 
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Created with ❤️ by [Ashish](https://github.com/ashishpatel26/)
